@@ -5,7 +5,11 @@ Alternatively, should the grid fill up without a victor, the game concludes in a
 Notable Attributes:
 
 Facilitates engaging gameplay for two participants.
+
 Determines triumphs by scrutinizing rows, columns, and diagonal alignments.
+
 Identifies stalemates when the entire grid is occupied sans a winner.
+
 Exhibits the game's board post each move.
+
 Permits continuous play over multiple rounds, affording players the option to terminate at their discretion.
